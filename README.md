@@ -7,3 +7,8 @@ Criação de sistem de cadastro de usuários com integração ao banco de dados 
 _____
 
 - Adição de express, nodemon, mysql e cors via yarn;
+
+___
+
+[Vídeo de passo a passo do projeto](https://www.youtube.com/watch?v=voXTVTW73E8).
+Última modificação no minuto 12:12.
