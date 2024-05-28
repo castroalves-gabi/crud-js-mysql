@@ -6,7 +6,7 @@ Criação de sistema de cadastro de usuários com integração ao banco de dados
 
 _____
 
-### Yarn add:
+### Add:
 - Express (construção da API); 
 - Nodemon (compilar em tempo real); 
 - MySQL (banco);
@@ -17,6 +17,9 @@ _____
 - React-toastify (criação de notificações/toasts para feedback em modificações no CRUD),
 
 ___
+### Executar:
+Em frontend, dar o comando yarn start.
+___
 ### Fonte
 Poppins, google fontes;
 - Regular 400;
@@ -26,5 +29,5 @@ Poppins, google fontes;
 ___
 
 [Vídeo de passo a passo do projeto](https://www.youtube.com/watch?v=voXTVTW73E8).
-Última modificação no minuto 21:36.
+Última modificação no minuto 24:47.
 
