@@ -29,5 +29,5 @@ Poppins, google fontes;
 ___
 
 [Vídeo de passo a passo do projeto](https://www.youtube.com/watch?v=voXTVTW73E8).
-Última modificação no minuto 28:19.
+Última modificação no minuto 32:20.
 
