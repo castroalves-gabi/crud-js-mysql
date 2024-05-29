@@ -18,7 +18,7 @@ _____
 
 ___
 ### Executar:
-Em frontend, dar o comando yarn start.
+Em frontend e em api, rodar yarn start.
 ___
 ### Fonte
 Poppins, google fontes;
@@ -29,5 +29,5 @@ Poppins, google fontes;
 ___
 
 [Vídeo de passo a passo do projeto](https://www.youtube.com/watch?v=voXTVTW73E8).
-Última modificação no minuto 24:47.
+Última modificação no minuto 28:19.
 
